@@ -1,0 +1,2 @@
+# Expanding-NLLB-200-to-Bhili-Fine-Tuning-Meta-s-Multilingual-Model-for-an-Underrepresented-Language
+Welcome to the Hindi-Bhili Translation Model repository! This project focuses on extending Meta's No Language Left Behind (NLLB-200) multilingual translation model to support Bhili, a low-resource language spoken by millions in western India (primarily in Rajasthan, Gujarat, Madhya Pradesh, and Maharashtra). 
